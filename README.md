@@ -34,3 +34,4 @@ This dashboard helps:
   1.Open the .pbix file in Power BI Desktop.
   2.Connect to your own data source or modify using sample dataset structure.
   3.Use filters and slicers to drill down into insights by brand, payment mode, city, and time.
+  ![image alt](https://github.com/manishsapkar/Mobile-Sales-Dashboard-/blob/9815997ab8d1d9560d95b9a489749f3897d0c548/Mobile%20Sales%20Dashboard.jpg)
